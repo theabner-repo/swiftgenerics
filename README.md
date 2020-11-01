@@ -1,2 +1,4 @@
-# swiftgenerics
-Tema del video de Swift Generics
+# Swift Generics
+Repositorio del video de Swift Generics
+
+link: https://youtu.be/LLZYMWNILMQ
